@@ -3,6 +3,7 @@ Controle de LEDs e um Buzzer com um Teclado Matricial no Raspberry Pi Pico W
 Integrantes:
 - Gabriel Cavalcanti Coelho (GabrielC248)
 - Daniel Souza Silva (danielsva0)
+- Isabel Rosa De Santana (Isabelrs02)
   
 Vídeo:
 - a
