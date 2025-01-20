@@ -5,6 +5,7 @@ Integrantes:
 - Daniel Souza Silva (danielsva0)
 - Isabel Rosa de Santana (Isabelrs02)
 - Gabriel Neponuceno Batista (GNepoB)
+- Danilo Silveira da Glória (codedanilo)
   
 Vídeo:
 - https://youtu.be/JK0JTlVKZd8?si=qWI01vm5uK-zqMvz
